@@ -1,29 +1,12 @@
 # Paulo Rafael de Souza Silva
-
 ---
  Olá, sou Paulo Rafael , Sou um Desenvolvedor Full Stack Web
- 
-
-### Conecte-se Comigo
+ ### 🚀 Projetos
 ---
-
-[![X](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://x.com/paulorafaeldev)
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&labelColor=ffffff&color=ceff48)](https://github.com/paulorafaeldev)
-[![Substack](https://img.shields.io/badge/-Substack-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://substack.com/@paulorafaeldev)
-[![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/paulorafaeldev/)
-[![linkedin](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.instagram.com/paulorafaeldev/)
-[![linkedin](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.youtube.com/@paulorafaeldev)
-
-
-### Projetos
----
-
-https://www.paulorafaeldev.com/
-https://www.blogdopaulo.com/
-https://www.curriculopdf.com/
-
-### Principais Tecnologias
-
+🔹 [Meu Site Pessoal ](https://www.paulorafaeldev.com/)
+🔹 [BlogdoPaulo](https://www.blogdopaulo.com/)
+🔹 [Gerador de Currículo Online](https://www.curriculopdf.com/) 
+ ### Principais Tecnologias
 ---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,4 +22,13 @@ https://www.curriculopdf.com/
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Conecte-se Comigo
+---
+[![X](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://x.com/paulorafaeldev)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&labelColor=ffffff&color=ceff48)](https://github.com/paulorafaeldev)
+[![Substack](https://img.shields.io/badge/-Substack-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://substack.com/@paulorafaeldev)
+[![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/paulorafaeldev/)
+[![linkedin](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.instagram.com/paulorafaeldev/)
+[![linkedin](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.youtube.com/@paulorafaeldev)
+
 
