@@ -1,12 +1,22 @@
 # Paulo Rafael de Souza Silva
 ---
- Olá, sou Paulo Rafael , Sou um Desenvolvedor Full Stack Web
+ 👋 Olá, Sou Paulo Rafael , apaixonado por Programação e atualmente construo projetos para evoluir minhas habilidades.  
+
+Atualmente trabalho como Técnico de Refrigeração e Eletrica a 14 Anos , Hoje atuo como Técnico de Refrigeração na Faculdade Multivix ja á 2 Anos
+
+💡 Tenho experiência prática com HTML, CSS, JavaScript, PHP, Laravel, Python, Django, React, Next.js e bancos de dados como MySQL e PostGreSQL  
+
+Me Formei em 2022 em Analise e Desenvolvimento de Sistemas Pela Estacio de SÁ , Hoje estou Cursando Ciência da Computação pela Estacio,  atualmente estou no 5º Semestre
+
+🚀  Meu Objetivo agora é Conquistar minha primeira oportunidade na Área como Programador Web, colaborar com equipes, aprender com Profissionais Experientes.
+
+
  ### 🚀 Projetos
 ---
 🔹 [Meu Site Pessoal ](https://www.paulorafaeldev.com/)
 🔹 [BlogdoPaulo](https://www.blogdopaulo.com/)
 🔹 [Gerador de Currículo Online](https://www.curriculopdf.com/) 
- ### Tecnologias que Trabalho Atualmente
+ ### Principais Tecnologias
 ---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
