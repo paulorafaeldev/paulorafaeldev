@@ -24,11 +24,11 @@
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ### Conecte-se Comigo
 ---
-[![X](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://x.com/paulorafaeldev)
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&labelColor=ffffff&color=ceff48)](https://github.com/paulorafaeldev)
-[![Substack](https://img.shields.io/badge/-Substack-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://substack.com/@paulorafaeldev)
-[![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/paulorafaeldev/)
-[![linkedin](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.instagram.com/paulorafaeldev/)
-[![linkedin](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.youtube.com/@paulorafaeldev)
-
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paulorafaeldev)
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulorafaeldev)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@paulorafaeldev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/paulorafaeldev/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/paulorafaeldev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paulorafaeldev)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:paulorafaeldev@gmail.com)
 
