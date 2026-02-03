@@ -6,7 +6,7 @@
 🔹 [Meu Site Pessoal ](https://www.paulorafaeldev.com/)
 🔹 [BlogdoPaulo](https://www.blogdopaulo.com/)
 🔹 [Gerador de Currículo Online](https://www.curriculopdf.com/) 
- ### Principais Tecnologias
+ ### Tecnologias que Trabalho Atualmente
 ---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
