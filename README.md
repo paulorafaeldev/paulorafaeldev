@@ -1,6 +1,7 @@
 # Paulo Rafael de Souza Silva
 ---
 👋 Olá, Sou Paulo Rafael , apaixonado por Programação e atualmente construo projetos para evoluir minhas habilidades.  
+
 💡 Tenho experiência prática com HTML, CSS, JavaScript, PHP, Laravel, Python, Django, React, Next.js e bancos de dados como MySQL e PostGreSQL  
 
 ### 🚀 Projetos
